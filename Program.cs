@@ -9,7 +9,7 @@ namespace ConsoleApp3
 {
     internal class Program
     {
-        static void Main(string[] args)
+      /*  static void Main(string[] args)
         {
             /* Working with Strings tutorials
              * List<string> names = ["Ruby", "anna", "Gamal"];
@@ -43,7 +43,7 @@ namespace ConsoleApp3
              foreach (string name in names)
              {
                  Console.WriteLine($"name is {name.ToUpper()}");
-             } */
+             } 
 
 
             //Challenge for lists .
@@ -60,6 +60,6 @@ namespace ConsoleApp3
 
 
 
-        }
+        }*/
     }
 }
